@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Bruno 👋
 
  <div>
-  <a href="https://github.com/bweinz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bweinz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/bweinz"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bweinz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bweinz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
    <!-- Icones do perfil-->
@@ -14,7 +13,7 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="right" alt="Bruno-yoda" src="https://c.tenor.com/lbIanR7ICawAAAAM/himym-barney-stinson.gif">
+  <!--img align="right" alt="Bruno-yoda" src="https://c.tenor.com/lbIanR7ICawAAAAM/himym-barney-stinson.gif"-->
 </div>
   
   
