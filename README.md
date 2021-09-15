@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bruno 👋
+## Hello, welcome 👋
 
  <div>
   <a href="https://github.com/bweinz"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bweinz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
